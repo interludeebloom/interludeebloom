@@ -1,8 +1,8 @@
 # Olá, eu sou a Amanda! 👩‍💻
 
-**Estudante de Engenharia de Software | Brasília, DF**
+**Estudante de Ciência da Computação | Brasília, DF**
 
-Tenho interesse em desenvolvimento backend e busco aplicar meus conhecimentos para transformar tecnologia em impacto real para a sociedade. Atualmente venho ampliando meus conhecimentos e participando de competições de programação competitiva.
+Tenho interesse em desenvolvimento backend, Engenharia de Dados e Full-Stack, busco aplicar meus conhecimentos para transformar tecnologia em impacto real para a sociedade. Atualmente venho ampliando meus conhecimentos e participando de competições de programação competitiva.
 
 ---
 
@@ -18,13 +18,15 @@ Tenho interesse em desenvolvimento backend e busco aplicar meus conhecimentos pa
 
 ## 📚 Formação
 
-- 🎓 **Engenharia de Software** — CEUB (2026–2030)
+- 🎓 **Ciência da Computação** — CEUB (2026–2030)
 - 🌐 **Inglês** — UnB Idiomas (2026–atual)
 
 ---
 
 ## 💼 Experiência
 
+- **Embaixadora e criadora de conteúdo do site Bora na Tech** — Bora na Tech? (Jul- Atual)
+- **Bolsista de Iniciação Científica** — PIC/PIBIC · FAP-DF
 - **Aluna-Tutora de Exatas** — UnB (Jun–Dez 2025)
 - **Tutora de Química** — Colégio Único Educacional (Jul–Out 2025)
 - **Extensionista PinkBalloon** — Programação Competitiva para Meninas · UnB
